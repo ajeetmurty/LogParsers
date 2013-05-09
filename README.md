@@ -4,7 +4,7 @@ LogParsers
 ## Description
 Parsers for multiple log formats.
 
-## Projects
+## Details
 TBD
 
 ## License
